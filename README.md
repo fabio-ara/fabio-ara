@@ -2,9 +2,9 @@
 
 Sou estudante de Tecnologia em Análise e Desenvolvimento de Sistemas no IFSP e trabalho na CETESB com desenvolvimento de soluções internas e automação de processos de negócio.
 
-Minha trajetória também passa por Letras, com habilitação em Linguística, e por Ciências Biológicas na USP. Essa formação mais ampla influencia diretamente meus interesses em modelagem, grafos, estatística, linguagem e processamento de linguagens naturais.
+Fiz, anteriormente, Técnico em Informática na ETESP (2006-2007) e Bacharelado em Letras, com habilitação em Linguística, na USP (2009-2013), bem como fui aluno do Bacharelado em Ciências Biológicas na USP (2014-2020). Essa formação influenciou diretamente meus interesses em modelagem, sistemas, estatística e processamento de linguagens naturais.
 
-Hoje, meu foco principal está em desenvolvimento full-stack. No meu tempo livre, mantenho projetos autorais ligados a tecnologia educacional, autoria pedagógica, compilação de conteúdo e ferramentas para estudo.
+Hoje, meu foco principal está em desenvolvimento full-stack. No meu tempo livre, mantenho projetos autorais ligados a tecnologia educacional, autoria pedagógica e ferramentas para estudo.
 
 ## Projetos em destaque
 
@@ -14,11 +14,11 @@ Aplicação de aprendizagem offline, com base web e Android, pensada para sessõ
 
 ### Disassembly
 
-Linguagem de autoria pedagógica criada para estruturar conteúdo didático de forma mais clara, antes da compilação para o formato consumido pelo app. Hoje ela faz parte do ecossistema do AraLearn.
+Linguagem de alto nível de autoria pedagógica criada para estruturar conteúdo didático para o AraLearn, antes da compilação para o formato consumido pelo app através do AraLearn Factory. Hoje faz parte do ecossistema do AraLearn.
 
 ### AraLearn Factory
 
-Camada técnica responsável por ingerir conteúdo estruturado, validar entrada, compilar lições, abrir preview para revisão e gerar o pacote compatível com o aplicativo.
+Camada técnica responsável por ingerir conteúdo estruturado em Disassembly, validar entrada, compilar lições em JSON, abrir preview para revisão e gerar o pacote compatível com o AraLearn.
 
 ### Repositórios acadêmicos
 
@@ -26,11 +26,11 @@ Também mantenho aqui os repositórios das disciplinas do curso, organizados sep
 
 ## Interesses
 
-- desenvolvimento full-stack
-- JavaScript e tooling
-- tecnologia educacional
-- processamento de linguagens naturais
-- modelagem matemática, grafos e estatística
+- Desenvolvimento Full-Stack
+- JavaScript
+- Tecnologia educacional
+- Processamento de linguagens naturais
+- Modelagem matemática
 
 ## Contato
 
