@@ -1,38 +1,48 @@
 # Fabio Ara
 
-Sou estudante de Tecnologia em Análise e Desenvolvimento de Sistemas no IFSP e trabalho na CETESB com desenvolvimento de soluções internas e automação de processos de negócio.
+Sou estudante de Análise e Desenvolvimento de Sistemas no IFSP e trabalho na CETESB, desenvolvendo soluções internas de automação de negócios.
 
-Fiz, anteriormente, Técnico em Informática na ETESP (2006-2007) e Bacharelado em Letras, com habilitação em Linguística, na USP (2009-2013), bem como fui aluno do Bacharelado em Ciências Biológicas na USP (2014-2020). Essa formação influenciou diretamente meus interesses em modelagem, sistemas, estatística e processamento de linguagens naturais.
+Interesso-me por métodos de estudo e venho desenvolvendo o AraLearn, uma ferramenta para autoria e consumo de trilhas didáticas no celular.
 
-Hoje, meu foco principal está em desenvolvimento full-stack. No meu tempo livre, mantenho projetos autorais ligados a tecnologia educacional, autoria pedagógica e ferramentas para estudo.
+Além da graduação em curso em Análise e Desenvolvimento de Sistemas no IFSP, sou Técnico em Informática pela ETESP, fiz Bacharelado em Letras, com habilitação em Linguística, na USP, e fui estudante do Bacharelado em Ciências Biológicas na USP.
 
-## Projetos em destaque
+## 💼 Atuação
+
+- 💼 Desenvolvimento de soluções internas e automação de processos
+- 🧩 Projetos autorais com foco em tecnologia educacional
+- 📚 Repositórios acadêmicos voltados a prática, estudo e evolução técnica
+
+## 🛠️ Linguagens utilizadas
+
+![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+## 📌 Tecnologias e temas de interesse
+
+- ⚙️ Automação de processos
+- 🌐 Desenvolvimento full-stack
+- 🧠 Processamento de linguagens naturais
+- 📈 Modelagem, grafos e estatística
+- 🎓 Tecnologia educacional
+
+## 🚀 Projetos em destaque
 
 ### AraLearn
 
-Aplicação de aprendizagem offline, com base web e Android, pensada para sessões de estudo curtas e objetivas. O projeto nasceu da ideia de criar uma ferramenta realmente útil para quem estuda em meio à rotina de trabalho, deslocamento e pouco tempo disponível.
+Aplicação de aprendizagem offline com base web e Android, voltada a estudo objetivo, autoria local e portabilidade de conteúdo.
 
 ### Disassembly
 
-Linguagem de alto nível de autoria pedagógica criada para estruturar conteúdo didático para o AraLearn, antes da compilação para o formato consumido pelo app através do AraLearn Factory. Hoje faz parte do ecossistema do AraLearn.
+Linguagem de autoria pedagógica criada para organizar conteúdo didático antes da compilação para o ecossistema do AraLearn.
 
 ### AraLearn Factory
 
-Camada técnica responsável por ingerir conteúdo estruturado em Disassembly, validar entrada, compilar lições em JSON, abrir preview para revisão e gerar o pacote compatível com o AraLearn.
+Camada de compilação e validação responsável por transformar conteúdo estruturado em pacotes compatíveis com o aplicativo.
 
-### Repositórios acadêmicos
+## 📫 Contato
 
-Também mantenho aqui os repositórios das disciplinas do curso, organizados separadamente para registrar exercícios, evolução técnica e histórico de estudo.
-
-## Interesses
-
-- Desenvolvimento Full-Stack
-- JavaScript
-- Tecnologia educacional
-- Processamento de linguagens naturais
-- Modelagem matemática
-
-## Contato
-
-- LinkedIn: <https://www.linkedin.com/in/fabio-ara-5650572a>
-
+- 🔗 LinkedIn: <https://www.linkedin.com/in/fabio-ara-5650572a>
