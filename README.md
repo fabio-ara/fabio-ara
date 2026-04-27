@@ -43,6 +43,6 @@ Linguagem de autoria pedagógica criada para organizar conteúdo didático antes
 
 Camada de compilação e validação responsável por transformar conteúdo estruturado em pacotes compatíveis com o aplicativo.
 
-## 📫 Contato
+## 🔗 Links
 
-- 🔗 LinkedIn: <https://www.linkedin.com/in/fabio-ara-5650572a>
+- AraLearn: <https://fabio-ara.github.io/aralearn/>
