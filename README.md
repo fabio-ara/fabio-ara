@@ -45,4 +45,4 @@ Camada de compilação e validação responsável por transformar conteúdo estr
 
 ## 🔗 Links
 
-- AraLearn: <https://fabio-ara.github.io/aralearn/>
+- 🦜 AraLearn: <https://fabio-ara.github.io/aralearn/>
