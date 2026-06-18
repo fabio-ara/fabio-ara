@@ -2,9 +2,9 @@
 
 Sou estudante de Análise e Desenvolvimento de Sistemas no IFSP e trabalho na CETESB, desenvolvendo soluções internas de automação de negócios.
 
-Interesso-me por métodos de estudo e venho desenvolvendo o AraLearn, uma ferramenta para autoria e consumo de trilhas didáticas no celular.
+Interesso-me por métodos de estudo e venho desenvolvendo o AraLearn, uma ferramenta para autoria e consumo de trilhas didáticas com assistência de IA no celular.
 
-Além da graduação em curso em Análise e Desenvolvimento de Sistemas no IFSP, sou Técnico em Informática pela ETESP, fiz Bacharelado em Letras, com habilitação em Linguística, na USP, e fui estudante do Bacharelado em Ciências Biológicas na USP.
+Além da graduação em curso em Tecnologia em Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo (IFSP), sou Técnico em Informática pela Escola Técnica Estadual de São Paulo (ETESP), fiz Bacharelado em Letras, com habilitação em Português e Linguística, na Universidade de São Paulo (USP) e sou candidato ao Mestrado em Educação e Tecnologias Digitais na Universidade de Lisboa (ULisboa).
 
 ## 💼 Atuação
 
@@ -23,25 +23,17 @@ Além da graduação em curso em Análise e Desenvolvimento de Sistemas no IFSP,
 
 ## 📌 Tecnologias e temas de interesse
 
-- ⚙️ Automação de processos
-- 🌐 Desenvolvimento full-stack
+- ⚙️ Automação de negócios
+- 🌐 Programação web
 - 🧠 Processamento de linguagens naturais
-- 📈 Modelagem, grafos e estatística
+- 📈 Inteligência artificial
 - 🎓 Tecnologia educacional
 
-## 🚀 Projetos em destaque
+## 🚀 Projeto em destaque
 
 ### AraLearn
 
-Aplicação de aprendizagem offline com base web e Android, voltada a estudo objetivo, autoria local e portabilidade de conteúdo.
-
-### Disassembly
-
-Linguagem de autoria pedagógica criada para organizar conteúdo didático antes da compilação para o ecossistema do AraLearn.
-
-### AraLearn Factory
-
-Camada de compilação e validação responsável por transformar conteúdo estruturado em pacotes compatíveis com o aplicativo.
+Aplicação de aprendizagem local e offline para web e Android, voltada a estudo objetivo, autoria local e portabilidade de conteúdo, com assistência de IA.
 
 ## 🔗 Links
 
