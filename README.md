@@ -1,16 +1,16 @@
 # Fabio Ara
 
-Sou estudante de Análise e Desenvolvimento de Sistemas no IFSP e trabalho na CETESB, desenvolvendo soluções internas de automação de negócios.
+Sou estudante de Tecnologia em Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo (IFSP) e do Mestrado em Educação e Tecnologias Digitais na Universidade de Lisboa (ULisboa). Trabalho na Companhia Ambiental do Estado de São Paulo (CETESB), onde desenvolvo soluções internas e automatizo processos de negócio.
 
-Interesso-me por métodos de estudo e venho desenvolvendo o AraLearn, uma ferramenta para autoria e consumo de trilhas didáticas com assistência de IA no celular.
+Interesso-me por métodos de estudo e desenvolvo o [AraLearn](https://github.com/fabio-ara/AraLearn), uma plataforma [web](https://fabio-ara.github.io/AraLearn/) e [Android](https://github.com/fabio-ara/AraLearn/releases) para a autoria e o estudo de percursos didáticos, com suporte à utilização offline, portabilidade de conteúdo e assistência de inteligência artificial.
 
-Além da graduação em curso em Tecnologia em Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo (IFSP), sou Técnico em Informática pela Escola Técnica Estadual de São Paulo (ETESP), fiz Bacharelado em Letras, com habilitação em Português e Linguística, na Universidade de São Paulo (USP) e sou candidato ao Mestrado em Educação e Tecnologias Digitais na Universidade de Lisboa (ULisboa).
+Sou também Técnico em Informática pela Escola Técnica Estadual de São Paulo (ETESP) e concluí o Bacharelado em Letras, com habilitação em Português e Linguística, na Universidade de São Paulo (USP).
 
-## 💼 Atuação
+## 💼 Atuação e projetos
 
-- 💼 Desenvolvimento de soluções internas e automação de processos
-- 🧩 Projetos autorais com foco em tecnologia educacional
-- 📚 Repositórios acadêmicos voltados a prática, estudo e evolução técnica
+- 💼 Desenvolvimento de soluções internas e automação de negócios;
+- 🧩 Projetos de autoria própria centrados na tecnologia educacional;
+- 📚 Projetos acadêmicos e repositórios de estudo.
 
 ## 🛠️ Linguagens utilizadas
 
@@ -21,20 +21,10 @@ Além da graduação em curso em Tecnologia em Análise e Desenvolvimento de Sis
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## 📌 Tecnologias e temas de interesse
+## 📌 Temas de interesse
 
-- ⚙️ Automação de negócios
-- 🌐 Programação web
-- 🧠 Processamento de linguagens naturais
-- 📈 Inteligência artificial
-- 🎓 Tecnologia educacional
-
-## 🚀 Projeto em destaque
-
-### AraLearn
-
-Aplicação de aprendizagem local e offline para web e Android, voltada a estudo objetivo, autoria local e portabilidade de conteúdo, com assistência de IA.
-
-## 🔗 Links
-
-- 🦜 AraLearn: <https://fabio-ara.github.io/AraLearn/>
+- ⚙️ Automação de negócios;
+- 💻 Desenvolvimento de software;
+- ✨ Inteligência artificial;
+- 📝 Gestão do conhecimento;
+- 🎓 Tecnologia educativa.
