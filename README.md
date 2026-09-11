@@ -2,7 +2,7 @@
 
 Sou estudante de Tecnologia em Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo (IFSP) e do Mestrado em Educação e Tecnologias Digitais na Universidade de Lisboa (ULisboa). Trabalho na Companhia Ambiental do Estado de São Paulo (CETESB), onde desenvolvo soluções internas e automatizo processos de negócio.
 
-Interesso-me por design instrucional e métodos de estudo e desenvolvo o [AraLearn](https://github.com/fabio-ara/AraLearn), uma plataforma [web](https://fabio-ara.github.io/AraLearn/) e [Android](https://github.com/fabio-ara/AraLearn/releases) para a autoria de cursos e autodidata em dispositivos móveis, com assistência de inteligência artificial generativa, revisão humana, vínculo com fontes e utilização offline.
+Interesso-me por design instrucional e métodos de estudo e desenvolvo o [AraLearn](https://github.com/fabio-ara/AraLearn), uma plataforma [web](https://fabio-ara.github.io/AraLearn/) e [Android](https://github.com/fabio-ara/AraLearn/releases) para a autoria de cursos e estudo autodidata em dispositivos móveis, com assistência de inteligência artificial generativa, revisão humana, vínculo com fontes e utilização offline.
 
 Sou também Técnico em Informática pela Escola Técnica Estadual de São Paulo (ETESP) e concluí o Bacharelado em Letras, com habilitação em Português e Linguística, na Universidade de São Paulo (USP).
 
